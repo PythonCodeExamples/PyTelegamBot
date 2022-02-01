@@ -1,10 +1,10 @@
-Bot for Telegram message application.
+Telegram bot on webhook.
 
 Bot uses webhook to get messages from users and give them the answers.
 
 
 
-Bot knows the commands:
+Available commands:
 
 "Hello" - says hi to the user
 
