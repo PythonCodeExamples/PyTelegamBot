@@ -2,7 +2,7 @@ Bot for Telegram message application.
 
 Bot use webhook to get messages from users and give them the answers.
 
-Bot knows the commands:
+Bot knows the commands:\n
 "Hello" - says hi to the user
 "/bitcoin" - write bitcoin's price in USD
 
