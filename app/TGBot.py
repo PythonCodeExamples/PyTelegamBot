@@ -89,6 +89,6 @@ class Bot:
         try: # Was command bind before?
             response = self.handlers[content]()
         except KeyError: # If it wasn't
-            response = "You don't know what to say :'("
+            response = "I don't know what to say :'("
 
         self.send_message(chat_id, response)
