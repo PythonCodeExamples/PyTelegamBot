@@ -11,7 +11,3 @@ Available commands:
 "/bitcoin" - write bitcoin's price in USD
 
 
-
-You can test the bot if you have Telegram.
-
-Link to bot: http://t.me/EnterviewTest_bot
